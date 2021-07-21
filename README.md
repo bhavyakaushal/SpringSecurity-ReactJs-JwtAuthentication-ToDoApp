@@ -3,12 +3,12 @@
 ## BACKEND
 
 Rest Api's are created using Spring Security for registering a new user and signing in. \ 
-MySql Database is used for storing user details, \
+MySql Database is used for storing user details, 
 and JWT authentication is done when the user tries to log in. 
 
 ## FRONTEND
 
-In this project, I've integrated spring boot with ReactJs that renders login and register page \ 
+In this project, I've integrated spring boot with ReactJs that renders login and register page  
 and after authentication to-do list page. To-do List is completely made using ReactJs.
  
 ### npm start
