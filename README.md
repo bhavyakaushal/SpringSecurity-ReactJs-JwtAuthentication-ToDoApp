@@ -1,16 +1,17 @@
 # SpringSecurity-ReactJs-JwtAuthentication-ToDoApp
 
-##BACKEND
+## BACKEND
 
-Rest Api's are created using Spring Security for registering a new user and signing in. \ MySql Database is used for storing user details, \
+Rest Api's are created using Spring Security for registering a new user and signing in. \ 
+MySql Database is used for storing user details, \
 and JWT authentication is done when the user tries to log in. 
 
-##FRONTEND
+## FRONTEND
 
-In this project, I've integrated spring boot with ReactJs that renders login and register page \ and after authentication to-do list page. To-do List is completely
- \ made using ReactJs.
+In this project, I've integrated spring boot with ReactJs that renders login and register page \ 
+and after authentication to-do list page. To-do List is completely made using ReactJs.
  
-###npm start
+### npm start
 Runs the app (ReactJs) in development mode.
 Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
